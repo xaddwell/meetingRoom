@@ -1,0 +1,12 @@
+.idea
+*.iml
+
+frontend1/.DS_Store
+frontend1/node_modules
+frontend1/dist
+
+backend/users/migrations
+backend/meeting/migrations
+
+UI_SeeFace/model.yml
+media/

@@ -1,0 +1,18 @@
+@import url(https://at.alicdn.com/t/font_3287283_avcqx5iru6m.css?spm=a313x.7781069.1998910419.51&file=font_3287283_avcqx5iru6m.css);
+*{
+    margin: 0;
+    padding:0;
+}
+ul{
+    list-style: none;
+}
+a{
+    text-decoration: none;
+}
+img{
+    vertical-align: middle;
+}
+body{
+    font-family: '微软雅黑', 'Arial Narrow', Arial, sans-serif;
+    font-size: 14px;
+}
